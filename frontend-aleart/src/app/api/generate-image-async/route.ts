@@ -183,7 +183,7 @@ async function generateImageAsync(userId: string, tokenId: number, pythonRequest
     const controller = new AbortController();
     const timeoutId = setTimeout(() => controller.abort(), 20 * 60 * 1000); // 20 minutes timeout
     
-    const pythonResponse = await fetch('http://localhost:5001/generate-image', {
+    const pythonResponse = await fetch('https://aleaart.onrender.com/generate-image', {
       method: 'POST',
       headers: {
         'Content-Type': 'application/json',
