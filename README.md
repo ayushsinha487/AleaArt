@@ -1,6 +1,6 @@
 # AleaArt - Blockchain-Powered Generative Art Platform
 
-AleaArt is a decentralized platform that generates unique art parameters using a verifiable on-chain commit-reveal mechanism on Mantle Testnet, creates AI-generated images using Clipdrop API, and enables NFT minting and trading. Each art piece is truly unique, verifiable on the blockchain, and tradeable as NFTs.
+AleaArt is a decentralized platform that generates unique art parameters using a verifiable on-chain randomness from a commit-reveal mechanism on Mantle Sepolia Testnet, creates AI-generated images using Clipdrop API, and enables NFT minting and trading. Each art piece is truly unique, verifiable on the blockchain, and tradeable as NFTs.
 
 Live Link - [Link](https://aleart-taupe.vercel.app/)
 
