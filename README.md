@@ -2,6 +2,8 @@
 
 AleaArt is a decentralized platform that generates unique art parameters using a verifiable on-chain commit-reveal mechanism on Mantle Testnet, creates AI-generated images using Clipdrop API, and enables NFT minting and trading. Each art piece is truly unique, verifiable on the blockchain, and tradeable as NFTs.
 
+Live Link - [Link](https://aleart-taupe.vercel.app/)
+
 ## 🎨 Key Features
 
 - **Commit-Reveal RNG**: Verifiable on-chain randomness using a secure two-step commit-reveal protocol
@@ -173,4 +175,12 @@ The original Stable Diffusion backends are still available but require significa
 6. **Trade**: Buy/sell NFTs in the decentralized marketplace
 7. **Own**: Full ownership and control of your digital art
 
+## Images
 
+<img width="1451" height="830" alt="Screenshot 2026-01-07 at 3 28 36 PM" src="https://github.com/user-attachments/assets/33d7295e-a040-4df2-b7a6-d2fead7a7b96" />
+
+<img width="1455" height="667" alt="Screenshot 2026-01-07 at 3 28 45 PM" src="https://github.com/user-attachments/assets/99cf40c6-f6f0-45a3-a3b9-d865ee006deb" />
+
+<img width="2940" height="3441" alt="screenshot" src="https://github.com/user-attachments/assets/8f88119c-cbe3-4265-9e22-0c7e6b80d0bc" />
+
+<img width="1456" height="835" alt="Screenshot 2026-01-07 at 3 27 03 PM" src="https://github.com/user-attachments/assets/ac3c39af-229a-43eb-aeba-293bb31af7a0" />
