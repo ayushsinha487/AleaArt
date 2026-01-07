@@ -93,7 +93,7 @@ export async function POST(request: NextRequest) {
     };
 
     // Call Python backend (you'll need to implement this endpoint)
-    const pythonResponse = await fetch('http://localhost:5001/generate-image', {
+    const pythonResponse = await fetch('https://aleaart.onrender.com/generate-image', {
       method: 'POST',
       headers: {
         'Content-Type': 'application/json',
